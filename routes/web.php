@@ -21,3 +21,11 @@ Route::get('/', function () {
 Route::get('/comics', function () {
     return view('comics');
 })->name('comics');
+
+Route::get('/contacts', function () {
+    return view('contacts');
+})->name('contacts');
+
+Route::get('/us', function () {
+    return view('us');
+})->name('us');

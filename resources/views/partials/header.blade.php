@@ -13,6 +13,9 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="{{ route('comics') }}">Comics</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="{{ route('contacts') }}">Contatti</a>
+        </li>
         
       </ul>
     </div>

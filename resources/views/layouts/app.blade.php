@@ -19,9 +19,3 @@
 </body>
 </html>
 
-<style>
-    ul,
-    ol {
-        list-style: none;
-    }
-</style>
